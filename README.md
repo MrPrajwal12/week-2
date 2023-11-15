@@ -3,30 +3,31 @@
 ## Editing Website Page
 
 ## Navigation Bar
-![navigation bar](https://github.com/MrPrajwal12/week-1/assets/117060344/75cef935-3dbb-4edf-8c64-a0ae5b012570)
+![navigation bar](https://github.com/MrPrajwal12/week-2/assets/117060344/d78d689b-83cd-4d16-be8a-3ec4375da0c9)
 
 ## Favicon
-![favicon with title](https://github.com/MrPrajwal12/week-1/assets/117060344/6c7365d9-2a83-45d8-aa1f-952f1abda36e)
+![favicon with title](https://github.com/MrPrajwal12/week-2/assets/117060344/2050c793-45dc-4e46-b11e-e683352c452c)
 
 ## Home Page
-![Home Page](https://github.com/MrPrajwal12/week-1/assets/117060344/de50b552-9d52-473e-88ff-dc2292231db4)
+![Home Page](https://github.com/MrPrajwal12/week-2/assets/117060344/1b1c8fa3-a383-4e1d-8e66-da7de10a63c6)
 
-![Home Page](https://github.com/MrPrajwal12/week-1/assets/117060344/bb3db1f5-211e-4332-a4db-5749192eaf4b)
+![Home Page](https://github.com/MrPrajwal12/week-2/assets/117060344/9af42bf3-4cea-49fe-838c-5462027d861b)
 
-![Home Page](https://github.com/MrPrajwal12/week-1/assets/117060344/6719f3ee-7d08-4817-9a50-b6c900fcac95)
+![Home Page](https://github.com/MrPrajwal12/week-2/assets/117060344/2a5a77ad-8481-4825-8087-6ce835460a56)
 
 ## Demo Desktop Video 
-https://github.com/MrPrajwal12/week-1/assets/117060344/5773ad37-d723-4a7e-a80d-376d26a9e058
+https://github.com/MrPrajwal12/week-2/assets/117060344/1b1749d5-4cca-4e6d-a33a-25724647090e
 
 
 ## Tab View
-![page-3](https://github.com/MrPrajwal12/week-1/assets/117060344/229479ee-0ceb-4b73-98cf-b640df8bd1fe)
+![page-3](https://github.com/MrPrajwal12/week-2/assets/117060344/0b6547f1-7a47-44a6-b63a-3da49030f09f)
 ## Tab View
-![page-4](https://github.com/MrPrajwal12/week-1/assets/117060344/741f5f30-ee64-4301-a6d3-21010a5330aa)
+![page-4](https://github.com/MrPrajwal12/week-2/assets/117060344/2e7c6d25-1b87-4430-8190-8b7d67c28325)
 ## Mobile View
-![page-5](https://github.com/MrPrajwal12/week-1/assets/117060344/a4f7339d-3764-480d-88eb-d47e61ed9073)
+![page-5](https://github.com/MrPrajwal12/week-2/assets/117060344/37b3bee3-f4b5-4d62-8403-bfaf14a98c0f)
 ## Demo Mobile View
-https://github.com/MrPrajwal12/week-1/assets/117060344/6e5dea84-6828-478c-8058-6292469facd9
+https://github.com/MrPrajwal12/week-2/assets/117060344/8bcbcfe2-937f-402e-ad3d-e55d1b748b1d
+
 
 
 
